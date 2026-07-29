@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://polybolos.org/schema/sensor_observation_v0.json",
+  "title": "SensorObservationV0",
+  "description": "Week 1 placeholder schema for multi-sensor observations.",
+  "type": "object",
+  "required": ["sensor_type", "timestamp"],
+  "properties": {
+    "sensor_type": { "enum": ["RADAR", "RF", "OPTICAL"] },
+    "timestamp": { "type": "number" },
+    "sensor_credibility": { "type": "number", "minimum": 0, "maximum": 1 }
+  }
+}
