@@ -142,11 +142,6 @@ For tactical display and operator interface, see HOTL (proprietary).
 
 This is the **math layer** that both run on.
 
-## Beyond this open foundation
-
-MIT gets you the fusion foundation. Production contested / denied-comms C2 needs more: adaptive track-state estimation, pursuit-evasion geometry, decision authority, and operator HOTL. Those layers stay proprietary.
-
-Integration inquiries: mark.brown@polybolos.org · https://www.polybolos.org
 
 ## Academic Sources
 
@@ -163,9 +158,14 @@ Validation by AFRL (Weintraub, Von Moll, Casbeer, Garcia, Pachter).
 
 MIT. Build on it. Fork it. Own it.
 
+
 ## Contact
 
-Defense integration inquiries: mark.brown@polybolos.org
+Polybolos Institute builds integrated C2 systems for contested operations.
+
+For production deployment, integration guidance, and commercial licensing:
+
+mark.brown@polybolos.org · https://www.polybolos.org
 
 ---
 
