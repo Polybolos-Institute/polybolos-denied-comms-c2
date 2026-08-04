@@ -3,6 +3,8 @@
 ## Status & recognition (factual)
 **OASW(SO/LIC) Accelerator Event - July 2026 (GoColosseum)**  
 Submission status: **Selected**. Per the portal, Selected means the submission was found **technically meritorious** and is under evaluation/consideration. 
+**1BCT / 82nd Airborne - Operation Epic Fury challenge (GoColosseum)**  
+Submission status: **Submitted**. Industry challenge from 1st Brigade Combat Team (1BCT), 82nd Airborne Division (CENTCOM AOR, Operation Epic Fury) for rapidly deployable commercial solutions in contested tactical environments. Polybolos portal submission: Advanced Tactical UAS, Edge Compute, Network, Inferencing Solutions.
 **AFRL engagement - April 2026**  
 COMMAND HOTL materials were provided to Air Force Research Laboratory contacts at their request:
 - **Col Christopher Rondeau (AFRL/RQ):** after receiving the package, requested permission to share it with additional colleagues while **building out this portfolio**; permission granted (**portfolio review / distribution interest**).
@@ -14,8 +16,6 @@ Command HOTL is assessed at **TRL 5** (lab / SITL / controlled demo / Lattice de
 Sandbox / interoperability evidence (including documented scale publish-ingest work) supports Lattice-edge integration feasibility. Not a production Lattice mesh claim. Independent of Anduril; samples are not Anduril products.
 **Inquiries:** mark.brown@polybolos.org  
 CAGE: 1AVY9 · UEI: RUSHH9B2UQV3 · Polybolos Institute
-
-The C2 system that works when everything else gets jammed.
 
 ## Problem
 
